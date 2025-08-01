@@ -1,1 +1,1 @@
-New sample file created.
+# New sample file created.
